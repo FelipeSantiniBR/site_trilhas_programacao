@@ -33,3 +33,13 @@
 #menu-h ul li a:hover {
     background-color: #00BFFF;
 }
+
+.title-mobile{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.video-mobile{
+   margin-left: 370px;
+   box-shadow: 10px 5px 5px black;
+}

@@ -33,3 +33,14 @@
 #menu-h ul li a:hover {
     background-color: #00BFFF;
 }
+
+.title{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.text-home{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
